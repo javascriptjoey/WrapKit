@@ -1,13 +1,17 @@
-```
-██╗    ██╗██████╗  █████╗ ██████╗ ██╗  ██╗██╗████████╗
-██║    ██║██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██║╚══██╔══╝
-██║ █╗ ██║██████╔╝███████║██████╔╝█████╔╝ ██║   ██║   
-██║███╗██║██╔══██╗██╔══██║██╔═══╝ ██╔═██╗ ██║   ██║   
-╚███╔███╔╝██║  ██║██║  ██║██║     ██║  ██╗██║   ██║   
- ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   
-```
+<div align="center">
 
-## A Modern React Component Library
+# ◦ ◦ ◦
+
+# **WrapKit**
+
+_Beautifully crafted React components_  
+_Inspired by Human Interface Guidelines_
+
+◦ ◦ ◦
+
+</div>
+
+## Designed for those who appreciate beautiful interfaces
 
 Welcome to **WrapKit** - a modern React component library built with TypeScript, Vite, and Storybook. This library provides reusable UI components designed for scalability, accessibility, and developer experience.
 
@@ -61,7 +65,7 @@ src/
 Each component is designed to be used independently. Import what you need:
 
 ```tsx
-import { Button, Header } from './components';
+import { Button, Header } from "./components";
 
 function App() {
   return (
